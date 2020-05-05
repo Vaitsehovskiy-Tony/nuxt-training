@@ -1,8 +1,10 @@
-# raklechitsa
+## raklechitsa
 
 > project for rak lechitsa
 
-## Build Setup
+### Стек технологий: Nuxt, Git, Webpack, JavaScript, CSS, HTML
+
+### Build Setup
 
 ```bash
 # install dependencies
